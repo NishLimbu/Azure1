@@ -16,6 +16,5 @@ All screenshots are located in the `/images` folder.
 
 ---
 
-## About
-Feel free to explore the tutorials, suggest improvements, or use them for learning purposes.
+
 
