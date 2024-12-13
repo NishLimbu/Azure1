@@ -1,39 +1,22 @@
+# Azure Tutorials
 
-# How to Create an Azure Account
-
-This tutorial guides you through creating a Microsoft Azure account step by step.
-
-## Step 1: Navigate to the Azure Signup Page
-Go to the [Azure Signup Page](https://azure.microsoft.com/en-us/free/).
-
-![Azure Signup Page](./images/azure-signup-page.png)
+This repository contains step-by-step tutorials to help you get started with Microsoft Azure.
 
 ---
 
-## Step 2: Fill in Your Details
-1. Click **Start for free**.
-2. Enter your personal details, including your name and email address.
+## Tutorials
+1. [Create an Azure Account](./tutorials/azure-account.md)
+2. [Create a Resource Group](./tutorials/resource-group.md)
+3. [Create a Storage Account](./tutorials/storage-account.md)
+4. [Create and Connect a Virtual Machine](./tutorials/virtual-machine.md)
 
 ---
 
-## Step 3: Verify Your Identity
-- Provide your phone number for SMS or call verification.
-- Enter the received code.
+## Screenshots
+All screenshots are located in the `/images` folder.
 
 ---
 
-## Step 4: Set Up Your Payment Information
-1. Enter your credit or debit card details for account verification.
-   
----
-
-## Step 5: Start Exploring Azure
-After successful verification, you will be redirected to the Azure portal.
-
----
-
-
-All screenshots used in this tutorial are available in the `/images` directory of this repository.
-
----
+## About
+Feel free to explore the tutorials, suggest improvements, or use them for learning purposes.
 
