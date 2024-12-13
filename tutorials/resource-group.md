@@ -23,14 +23,14 @@ Azure's **Resource Groups** help organize resources logically for easier managem
 2. In the left-hand menu, select **Resource Groups**.
 3. Click **+ Create**.
 
-   ![Create Resource Group Button](./images/create-resource-group-button.png)
+   ![Create Resource Group Button](../images/create-resource-group-button.png)
 
 4. Fill out the required details:
    - **Subscription:** Select your Azure subscription.
    - **Resource Group Name:** Enter a unique name (e.g., `my-first-resource-group`).
    - **Region:** Choose the location where your resources will reside.
 
-   ![Resource Group Form](./images/resource-group-form.png)
+   ![Resource Group Form](../images/resource-group-form.png)
 
 5. Click **Review + Create**, then **Create**.
 
@@ -41,7 +41,7 @@ Azure's **Resource Groups** help organize resources logically for easier managem
 1. Navigate to **Storage Accounts** from the Azure Portal menu.
 2. Click **+ Create**.
 
-   ![Create Storage Account Button](./images/create-storage-account-button.png)
+   ![Create Storage Account Button](../images/create-storage-account-button.png)
 
 3. Fill out the required details:
    - **Subscription:** Choose your subscription.
@@ -51,7 +51,7 @@ Azure's **Resource Groups** help organize resources logically for easier managem
    - **Performance:** Choose **Standard** for general-purpose storage.
    - **Replication:** Select a replication option (e.g., **Locally-redundant storage**).
 
-   ![Storage Account Form](./images/storage-account-form.png)
+   ![Storage Account Form](../images/storage-account-form.png)
 
 4. Click **Review + Create**, then **Create**.
 
