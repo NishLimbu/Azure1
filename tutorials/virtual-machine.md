@@ -4,13 +4,6 @@ This guide explains how to create a virtual machine in Azure and connect to it u
 
 ---
 
-## Prerequisites
-1. An Azure account (see [Create an Azure Account](./azure-account.md)).
-2. A Resource Group (see [Create a Resource Group](./resource-group.md)).
-3. A Storage Account (see [Create a Storage Account](./storage-account.md)).
-
----
-
 ## Step 1: Create a Virtual Machine
 
 1. Log into the [Azure Portal](https://portal.azure.com).
@@ -55,13 +48,3 @@ This guide explains how to create a virtual machine in Azure and connect to it u
 
 ---
 
-## Tips for Managing Your Virtual Machine
-- **Shut Down When Not in Use:** Avoid incurring unnecessary charges.
-- **Monitor Costs:** Use the Azure cost management tools to track usage.
-- **Secure Access:** Configure Network Security Groups (NSGs) for better security.
-
----
-
-## What's Next?
-- Learn how to manage resources using the Azure CLI.
-- Explore deploying apps or services within your virtual machine.
