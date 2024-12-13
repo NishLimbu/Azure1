@@ -8,7 +8,6 @@ This tutorial extends the process of creating an Azure account by demonstrating 
 - [Introduction](#introduction)
 - [Step 1: Create a Resource Group](#step-1-create-a-resource-group)
 - [Step 2: Create a Storage Account](#step-2-create-a-storage-account)
-- [Conclusion](#conclusion)
 
 ---
 
@@ -57,9 +56,3 @@ Azure's **Resource Groups** help organize resources logically for easier managem
 4. Click **Review + Create**, then **Create**.
 
 ---
-
-## Conclusion
-
-Congratulations! You've successfully created:
-- A Resource Group for logical resource organization.
-- A Storage Account for scalable cloud storage.
