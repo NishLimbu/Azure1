@@ -6,9 +6,8 @@ This repository contains step-by-step tutorials to help you get started with Mic
 
 ## Tutorials
 1. [Create an Azure Account](./tutorials/azure-account.md)
-2. [Create a Resource Group](./tutorials/resource-group.md)
-3. [Create a Storage Account](./tutorials/storage-account.md)
-4. [Create and Connect a Virtual Machine](./tutorials/virtual-machine.md)
+2. [Create a Resource Group/Storage Account](./tutorials/resource-group.md)
+3. [Create and Connect a Virtual Machine](./tutorials/virtual-machine.md)
 
 ---
 
