@@ -23,7 +23,7 @@ Azure's **Resource Groups** help organize resources logically for easier managem
 2. In the left-hand menu, select **Resource Groups**.
 3. Click **+ Create**.
 
-   ![Create Resource Group Button](../images/create-resource-group-button.png)
+   ![Create Resource Group Button](../images/create-source-group-button.png)
 
 4. Fill out the required details:
    - **Subscription:** Select your Azure subscription.
