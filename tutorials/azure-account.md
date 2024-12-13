@@ -12,7 +12,7 @@ This tutorial guides you through creating a Microsoft Azure account step by step
 ## Step 1: Navigate to the Azure Signup Page
 Go to the [Azure Signup Page](https://azure.microsoft.com/en-us/free/).
 
-![Azure Signup Page](.Azure1/images/azure-signup-page.png)
+![Azure Signup Page](../images/azure-signup-page.png)
 
 ---
 
