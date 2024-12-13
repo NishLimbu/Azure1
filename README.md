@@ -37,5 +37,3 @@ All screenshots used in this tutorial are available in the `/images` directory o
 
 ---
 
-## Repository Link
-This tutorial is hosted on GitHub at [Your Repository Link](#).
