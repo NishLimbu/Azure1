@@ -30,7 +30,6 @@ Go to the [Azure Signup Page](https://azure.microsoft.com/en-us/free/).
 
 ## Step 4: Set Up Your Payment Information
 1. Enter your credit or debit card details for account verification.
-   > **Note:** No charges will be made unless you exceed the free-tier limits.
    
 ---
 
